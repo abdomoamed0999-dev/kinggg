@@ -1,0 +1,6 @@
+{
+  "name": "Tanseeqi - تنسيقي | Egyptian Universities & Diplomas Admission Architect",
+  "description": "Comprehensive cross-platform mobile architecture, technical specification, and interactive simulator for Egyptian Thanaweya Amma and Technical Diploma college admissions (Tansik).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
